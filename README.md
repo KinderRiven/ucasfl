@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Flynn's github stats](https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true)
 
 <!--
