@@ -1,4 +1,4 @@
-![Flynn's github stats](https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true)
+![Flynn's github stats](https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true&hide=stars)
 
 <!--
 **ucasFL/ucasfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
