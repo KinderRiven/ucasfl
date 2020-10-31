@@ -1,5 +1,5 @@
-![Flynn's github stats](https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true&hide=stars&include_all_commits=true)
-
+<!--![Flynn's github stats](https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true&hide=stars&include_all_commits=true)-->
+<img src="https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true&hide=stars&include_all_commits=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucasFL&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
