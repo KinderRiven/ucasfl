@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true&hide=stars&include_all_commits=true" alt="logo" height="160" width="400"  align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=ucasFL&show_icons=true&count_private=true&hide=stars&include_all_commits=true" alt="logo"  />
 
 <!--
 **ucasFL/ucasfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
